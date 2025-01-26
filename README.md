@@ -4,10 +4,10 @@ This project integrates state-of-the-art techniques in Natural Language Processi
 
 Authors:
 
-Mummadi Hemanth Reddy
-Okesh Ankireddypalli
-Mouhitha Arella
-Saranya Gujjula
+Mummadi Hemanth Reddy,
+Okesh Ankireddypalli,
+Mouhitha Arella,
+Saranya Gujjula, and
 Suja Palaniswamy
 
 
