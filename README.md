@@ -11,8 +11,9 @@ Saranya Gujjula, and
 Suja Palaniswamy
 
 
-Table of Contents
-Installation
+Table of Contents:
+
+* Installation
 Usage
 Methodology
 Textual Data Preprocessing with SpaCy
