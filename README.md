@@ -30,11 +30,11 @@ To get started, clone the repository and install the required dependencies:
 
 Clone the repository:
 
-git clone https://github.com/yourusername/image-captioning-object-segmentation.git
+git clone https://github.com/okesh1215/ObjectFusion-AI-Based-Image-Synthesis-from-Selective-Object-specification.git
 Navigate to the project folder:
 
 
-cd image-captioning-object-segmentation
+cd ObjectFusion-AI-Based-Image-Synthesis-from-Selective-Object-specification
 Install the dependencies:
 pip install -r requirements.txt
 
