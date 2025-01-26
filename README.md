@@ -14,18 +14,18 @@ Suja Palaniswamy
 Table of Contents:
 
 * Installation
-Usage
-Methodology
-Textual Data Preprocessing with SpaCy
-Object Detection using ResNet
-Anchor Refinement
-Segmentation Using DenseNet201 and DeepLab
-Masking the Detected Objects
-Combining the Segmented Objects
-Visualization and Evaluation
-Evaluation Metrics
-Contributing
-License
+*Usage
+*Methodology
+*Textual Data Preprocessing with SpaCy
+*Object Detection using ResNet
+*Anchor Refinement
+*Segmentation Using DenseNet201 and DeepLab
+*Masking the Detected Objects
+*Combining the Segmented Objects
+*Visualization and Evaluation
+*Evaluation Metrics
+*Contributing
+
 Installation
 To get started, clone the repository and install the required dependencies:
 
