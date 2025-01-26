@@ -2,14 +2,14 @@
 Overview
 This project integrates state-of-the-art techniques in Natural Language Processing (NLP) and Computer Vision (CV) to perform image captioning and object segmentation based on textual descriptions from the COCO dataset. The methodology combines SpaCy for text preprocessing, ResNet for object detection, DeepLab with DenseNet201 for segmentation, and mask generation to isolate detected objects from the background. The ultimate goal is to create a cohesive visual representation where each detected object is not only identified but also segmented from the image.
 
-Authors
+Authors:
+
 Mummadi Hemanth Reddy
 Okesh Ankireddypalli
 Mouhitha Arella
 Saranya Gujjula
 Suja Palaniswamy
-Amrita School of Computing, Bengaluru
-Amrita Vishwa Vidyapeetham, India
+
 
 Table of Contents
 Installation
